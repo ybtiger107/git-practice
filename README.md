@@ -26,3 +26,5 @@ Is this works?
 copy from test2, wish it works
 
 local test
+
+local test2
