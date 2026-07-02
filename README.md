@@ -24,3 +24,5 @@ Is this works?
 ## Test3
 
 copy from test2, wish it works
+
+local test
